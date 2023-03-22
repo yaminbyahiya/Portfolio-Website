@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.navbar{
+    /* text-transform: uppercase; */
+}
+.background{
+    filter: blur(3px);
+}
+.heading-content{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    max-width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
